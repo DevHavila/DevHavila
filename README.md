@@ -4,7 +4,7 @@
 
 <div>
 
-  [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hávila-j-30247a2b7)
+  [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/hávila-j-30247a2b7](https://www.linkedin.com/in/h%C3%A1vila-j-30247a2b7/))
 
 </div>         
 
