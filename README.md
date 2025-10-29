@@ -1,4 +1,4 @@
-### Olá sou Hávila Júnior 👨🏾‍💻
+### Olá sou Hávila Júnior
 
 
 
